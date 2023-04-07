@@ -8,4 +8,10 @@
 
 # Find the result of that expression 'https://github.com/Final-PythonFoundationHomework/variables_and_types/blob/main/README.md#begin10' to variable 'k';
 
-# # Print the variable 'k'.
+
+a=5 
+b=4
+c=2
+d=8
+x = 2*(5*4-2*8)
+print(x)
